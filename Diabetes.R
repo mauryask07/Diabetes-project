@@ -1,6 +1,6 @@
 # Load raw data
 
-#data<-read.csv(file.choose())
+data<-read.csv(file.choose())
 # # Load up caTools package to use for data split
 library(caTools)
 
